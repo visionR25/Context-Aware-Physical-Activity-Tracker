@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788103230332",
+    "project_id": "physicalactivity-227fd",
+    "storage_bucket": "physicalactivity-227fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788103230332:android:a7a35a6576d5a65716eaf9",
+        "android_client_info": {
+          "package_name": "com.physicalTracking.physical_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJwTpxkv7xZBfdk3nNWJjDFm-xvhvqtTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
